@@ -25,4 +25,4 @@ console.log(firstName + " " + familyName);
 let test;
 test = "hallo";
 test = 2;
-console.log(teest);
+console.log(test);
