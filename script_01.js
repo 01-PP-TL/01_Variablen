@@ -14,18 +14,18 @@
 
 /***** 02 Deklaration + Wertzuweisung I *******/
 
-let firstName; // Deklaration "Definition)
-firstName = "DMX"; // Wertzuweisunng
-console.log(firstName); // Ausgabe
+// let firstName; // Deklaration "Definition)
+// firstName = "DMX"; // Wertzuweisunng
+// console.log(firstName); // Ausgabe
 
-let familyName = "Mütze"; 
-console.log(familyName)
-console.log(firstName + " " + familyName);
+// let familyName = "Mütze"; 
+// console.log(familyName)
+// console.log(firstName + " " + familyName);
 
 let test;
 test = "hallo";
-test = 2;
-test = true;
+// test = 2;
+// test = true;
 
 console.log ("Datentyp: " + typeof test);
 
