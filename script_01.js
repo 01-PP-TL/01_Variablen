@@ -9,8 +9,16 @@
 */
 
 // Konsolen-Ausgaben
-// console.log("Hallo");
-// console.log(firstName);
+//console.log("Hallo");
+//console.log(firstName);
 
 /***** 02 Deklaration + Wertzuweisung I *******/
+
+let firstName; // Deklaration "Definition)
+firstName = "DMX"; // Wertzuweisunng
+console.log(firstName); // Ausgabe
+
+let familyName = "Mütze"; 
+console.log(familyName)
+console.log(firstName + " " + familyName);
 
