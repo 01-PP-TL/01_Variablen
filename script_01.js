@@ -25,4 +25,5 @@ console.log(firstName + " " + familyName);
 let test;
 test = "hallo";
 test = 2;
+test = true;
 console.log(test);
