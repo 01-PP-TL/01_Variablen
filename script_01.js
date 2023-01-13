@@ -26,4 +26,8 @@ let test;
 test = "hallo";
 test = 2;
 test = true;
-console.log(test);
+
+console.log ("Datentyp: " + typeof test);
+
+console.log("Inhalt: " + test);
+
