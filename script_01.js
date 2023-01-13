@@ -22,3 +22,7 @@ let familyName = "Mütze";
 console.log(familyName)
 console.log(firstName + " " + familyName);
 
+let test;
+test = "hallo";
+test = 2;
+console.log(teest);
